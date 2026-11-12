@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604066",
+ "ten": "DoTuanLong",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "itslongforwork@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000194027.jpg",
+  "000000225138.jpg",
+  "000000451084.jpg",
+  "000000455536.jpg",
+  "000000090646.jpg",
+  "000000469061.jpg",
+  "000000516902.jpg",
+  "000000123544.jpg",
+  "000000461002.jpg",
+  "000000106051.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_496353.jpg",
+  "face_92028.jpg",
+  "face_105668.jpg",
+  "face_223746.jpg",
+  "face_380754.jpg",
+  "face_219250.jpg",
+  "face_279764.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 13,
+   "task_name": "persons-DoTuanLong"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 14,
+   "task_name": "faces-DoTuanLong"
+  }
+ }
+}
